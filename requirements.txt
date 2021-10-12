@@ -76,7 +76,7 @@ nltk==3.5
 notebook==6.0.3
 numexpr==2.7.1
 numpy==1.16.1
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 packaging==20.4
 pandas==0.24.1
 pandocfilters==1.4.2
